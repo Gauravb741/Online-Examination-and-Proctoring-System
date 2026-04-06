@@ -184,15 +184,6 @@ Contributions are welcome. To contribute:
 
 Please ensure your code follows standard Java naming conventions and includes comments where necessary.
 
----
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-You are free to use, modify, and distribute this project with attribution.
-
----
 
 ## Author
 
