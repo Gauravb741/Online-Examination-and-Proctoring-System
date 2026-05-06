@@ -185,7 +185,7 @@ Contributions are welcome. To contribute:
 Please ensure your code follows standard Java naming conventions and includes comments where necessary.
 
 
-## Author
+# Author
 
 **Gaurav Bansod**
 GitHub: [@Gauravb741](https://github.com/Gauravb741)
